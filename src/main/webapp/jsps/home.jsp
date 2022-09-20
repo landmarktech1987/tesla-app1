@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Welcome to Big Serge Tires.</h1>
+<h1 align="center">Welcome to Big Serge Tires. We offer good quality used and new tires at affordable rates.
+	           We anticipate to open 30 stores nationwide by 2030.
+	We will train you to become the best tire maintainance technican in town.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
