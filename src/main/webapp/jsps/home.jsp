@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>Big Serge Tires- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
@@ -34,19 +34,19 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Big Serge Tires, 
+		Queen Creek, Arizona, USA
+		+1 480 577 8417,
+		abang.serge@yahoo.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:abang.serge@yahoo.com">Mail to Big Serge Tires</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
+<p align=center>Big Serge Tires - Tire Maintainance, New and Used Tires</p>
 <p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
