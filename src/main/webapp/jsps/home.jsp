@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Big Serge Tires.</h1>
 <h1 align="center">Welcome to Big Serge Tires. We offer good quality used and new tires at affordable rates.
 	           We anticipate to open 30 stores nationwide by 2040.
-	We will train you to become the best tire maintainance technician in town.</h1>
+	We train the best tire maintainance technician in town and in the whole country.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -47,7 +47,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Big Serge Tires - Tire Maintainance, New and Used Tires</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://www.bigsergetires.com/">Big Serge Tires</a> </small></p>
 
 </body>
 </html>
