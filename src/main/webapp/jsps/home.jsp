@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Big Serge Tires.</h1>
 <h1 align="center">Welcome to Big Serge Tires. We offer good quality used and new tires at affordable rates.
 	           We anticipate to open 30 stores nationwide by 2040.
-	We will train you to become the best tire maintainance technican in town.</h1>
+	We will train you to become the best tire maintainance technician in town.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
