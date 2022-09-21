@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Big Serge Tires.</h1>
+<h1 align="center">Welcome to Big Serge Tires and sons.</h1>
 <h1 align="center">Welcome to Big Serge Tires. We offer good quality used and new tires at affordable rates.
 	           We anticipate to open 30 stores nationwide by 2040.
 	We train the best tire maintainance technician in town and in the whole country.</h1>
